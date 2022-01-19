@@ -1,0 +1,21 @@
+Enter number of elements:
+3
+Enter array element: 
+5
+9
+2
+Select an option:
+1: Display elements of an array
+2: Search the element within array given by the user
+3: Sort the array by using any sort method
+1
+Array element1 5
+Array element2 9
+Array element3 2
+Enter element you want to search: 
+5
+The array you are looking for is at index0
+Array in ascending order: 
+2
+5
+9
